@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapsConfigurado</string>
+    <string name="title_activity_tela_principal">Map</string>
+</resources>
